@@ -1,0 +1,4 @@
+C:\Users\nargiz.gasimbayova\Desktop\Files\self\task 4\task2\task2\obj\Debug\netcoreapp3.1\task2.csprojAssemblyReference.cache
+C:\Users\nargiz.gasimbayova\Desktop\Files\self\task 4\task2\task2\obj\Debug\netcoreapp3.1\task2.AssemblyInfoInputs.cache
+C:\Users\nargiz.gasimbayova\Desktop\Files\self\task 4\task2\task2\obj\Debug\netcoreapp3.1\task2.AssemblyInfo.cs
+C:\Users\nargiz.gasimbayova\Desktop\Files\self\task 4\task2\task2\obj\Debug\netcoreapp3.1\task2.csproj.CoreCompileInputs.cache
