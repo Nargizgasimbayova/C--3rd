@@ -1,0 +1,13 @@
+C:\Users\nargiz.gasimbayova\Desktop\Files\self\task 4\task1\task1\obj\Debug\netcoreapp3.1\task1.csprojAssemblyReference.cache
+C:\Users\nargiz.gasimbayova\Desktop\Files\self\task 4\task1\task1\obj\Debug\netcoreapp3.1\task1.AssemblyInfoInputs.cache
+C:\Users\nargiz.gasimbayova\Desktop\Files\self\task 4\task1\task1\obj\Debug\netcoreapp3.1\task1.AssemblyInfo.cs
+C:\Users\nargiz.gasimbayova\Desktop\Files\self\task 4\task1\task1\obj\Debug\netcoreapp3.1\task1.csproj.CoreCompileInputs.cache
+C:\Users\nargiz.gasimbayova\Desktop\Files\self\task 4\task1\task1\bin\Debug\netcoreapp3.1\task1.exe
+C:\Users\nargiz.gasimbayova\Desktop\Files\self\task 4\task1\task1\bin\Debug\netcoreapp3.1\task1.deps.json
+C:\Users\nargiz.gasimbayova\Desktop\Files\self\task 4\task1\task1\bin\Debug\netcoreapp3.1\task1.runtimeconfig.json
+C:\Users\nargiz.gasimbayova\Desktop\Files\self\task 4\task1\task1\bin\Debug\netcoreapp3.1\task1.runtimeconfig.dev.json
+C:\Users\nargiz.gasimbayova\Desktop\Files\self\task 4\task1\task1\bin\Debug\netcoreapp3.1\task1.dll
+C:\Users\nargiz.gasimbayova\Desktop\Files\self\task 4\task1\task1\bin\Debug\netcoreapp3.1\task1.pdb
+C:\Users\nargiz.gasimbayova\Desktop\Files\self\task 4\task1\task1\obj\Debug\netcoreapp3.1\task1.dll
+C:\Users\nargiz.gasimbayova\Desktop\Files\self\task 4\task1\task1\obj\Debug\netcoreapp3.1\task1.pdb
+C:\Users\nargiz.gasimbayova\Desktop\Files\self\task 4\task1\task1\obj\Debug\netcoreapp3.1\task1.genruntimeconfig.cache
